@@ -1,4 +1,4 @@
-import SampleTable from "./componts/SampleTable"
+import SampleTable from "./components/SampleTable"
 
 
 const  App = () => {
